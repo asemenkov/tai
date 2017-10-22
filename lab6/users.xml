@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <passwd>admin</passwd>
+        <fullname>Administrator</fullname>
+        <email>admin@gmail.com</email>
+        <date>01-11-2015</date>
+        <status>2</status>
+    </user>
+    <user>
+        <username>beatap</username>
+        <passwd>beatap</passwd>
+        <fullname>Beata P.</fullname>
+        <email>beatap@gmail.com</email>
+        <date>01-11-2015</date>
+        <status>1</status>
+    </user>
+
+    
+    <user>
+        <username>123123</username>
+        <passwd>90f2a429bd13f714b0e7357f08b4d172</passwd>
+        <fullname>123123131</fullname>
+        <email>123123@sfdf.com</email>
+        <date>2017-10-22 10:41:54</date>
+        <status>1</status>
+    </user>
+    <user>
+        <username>dfsdfsdf</username>
+        <passwd>8e9e93499fdea11701fad795b53349ae</passwd>
+        <fullname>dfsdfsdf</fullname>
+        <email>dfs@mail.com</email>
+        <date>2017-10-22 10:50:22</date>
+        <status>1</status>
+    </user>
+</users>
